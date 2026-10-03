@@ -64,7 +64,20 @@ The graph above leaves out determiners and rare words so that it stays readable.
 
 ## Reproduce
 
-```bash
-pip install -r requirements.txt
-jupyter nbconvert --to notebook --execute --inplace HW1_moby_dick_whale_network.ipynb
-```
+The notebook already contains all outputs and graphs, so it can be read directly on GitHub without running anything.
+To re-run the analysis yourself:
+
+1. **Install the required libraries** (spaCy with its English model, networkx, pandas, matplotlib, scipy and Jupyter), all listed in `requirements.txt`:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Run the whole notebook from top to bottom.** This command executes every cell and saves the fresh results back into the same file (the same as opening the notebook and clicking **Run All**):
+
+   ```bash
+   jupyter nbconvert --to notebook --execute --inplace HW1_moby_dick_whale_network.ipynb
+   ```
+
+   Alternatively, open the notebook in Jupyter or Google Colab and click **Run All**. A full run takes about one minute.
+   The folders `data/` (with `moby_dick.txt`) and `figures/` must be next to the notebook.
