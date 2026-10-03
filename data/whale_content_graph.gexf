@@ -1,0 +1,2133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-03">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="rel" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="level" type="long" />
+      <attribute id="1" title="freq" type="long" />
+    </attributes>
+    <nodes>
+      <node id="whale" label="whale">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1525" />
+        </attvalues>
+      </node>
+      <node id="great" label="great">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="29" />
+        </attvalues>
+      </node>
+      <node id="have" label="have">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="or" label="or">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="one" label="one">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="wound" label="wound">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="mighty" label="mighty">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="and" label="and">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="39" />
+        </attvalues>
+      </node>
+      <node id="take" label="take">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="in" label="in">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="large" label="large">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="dead" label="dead">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="kill" label="kill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="right" label="right">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="65" />
+        </attvalues>
+      </node>
+      <node id="sperm" label="sperm">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="189" />
+        </attvalues>
+      </node>
+      <node id="true" label="true">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="old" label="old">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="at" label="at">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="first" label="first">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="ship" label="ship">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="particular" label="particular">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="live" label="live">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="vessel" label="vessel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="more" label="more">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="say" label="say">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="but" label="but">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="chronicler" label="chronicler">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="wondrous" label="wondrous">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="of" label="of">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </node>
+      <node id="die" label="die">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="white" label="white">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="110" />
+        </attvalues>
+      </node>
+      <node id="greenland" label="greenland">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="other" label="other">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="hunt" label="hunt">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="with" label="with">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="folio" label="folio">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="physeter" label="physeter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="headed" label="headed">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="pursue" label="pursue">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="head" label="head">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="same" label="same">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="elephant" label="elephant">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="small" label="small">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="on" label="on">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="hat" label="hat">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="four" label="four">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="run" label="run">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="tow" label="tow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="three" label="three">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="fly" label="fly">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="dick" label="dick">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="cut" label="cut">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="full" label="full">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="young" label="young">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="hoist" label="hoist">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="scene" label="scene">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="noble" label="noble">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="stricken" label="stricken">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="stubb" label="stubb">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="dat" label="dat">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="as" label="as">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="capture" label="capture">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="two" label="two">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="sized" label="sized">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="like" label="like">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="drug" label="drug">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="blasted" label="blasted">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="bone" label="bone">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="grinning" label="grinning">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="for" label="for">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="sea" label="sea">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="near" label="near">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="above" label="above">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="spitzbergen" label="spitzbergen">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="asiatics" label="asiatics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="air" label="air">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ocean" label="ocean">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="home" label="home">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="bedford" label="bedford">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="now" label="now">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="queequeg" label="queequeg">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="haul" label="haul">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="from" label="from">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="famous" label="famous">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="hand" label="hand">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="anvil" label="anvil">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="black" label="black">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="whaleman" label="whaleman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="fisherman" label="fisherman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="long" label="long">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="english" label="english">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="americans" label="americans">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="track" label="track">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="baleen" label="baleen">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="beaked" label="beaked">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="bunch" label="bunch">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="pike" label="pike">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="jaw" label="jaw">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="rostrate" label="rostrate">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="kind" label="kind">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="humpbacked" label="humpbacked">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="castle" label="castle">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="magnitude" label="magnitude">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="order" label="order">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="horn" label="horn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="unicorn" label="unicorn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="cape" label="cape">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="pudding" label="pudding">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="leading" label="leading">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="cannon" label="cannon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="scragg" label="scragg">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="coppered" label="coppered">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="iceberg" label="iceberg">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="quog" label="quog">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="blue" label="blue">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="brow" label="brow">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="puncture" label="puncture">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="side" label="side">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="question" label="question">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="specie" label="specie">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="very" label="very">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="portly" label="portly">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="hull" label="hull">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="through" label="through">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="mediterranean" label="mediterranean">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="bottom" label="bottom">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="self" label="self">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="moby" label="moby">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="cross" label="cross">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="sibbald" label="sibbald">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="spermaceti" label="spermaceti">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="hump" label="hump">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="to" label="to">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="attitude" label="attitude">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="expression" label="expression">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="whaling" label="whaling">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="out" label="out">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="course" label="course">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="bigness" label="bigness">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="dish" label="dish">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="fall" label="fall">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="then" label="then">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="talk" label="talk">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="time" label="time">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="larboard" label="larboard">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="regularly" label="regularly">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="by" label="by">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="grey" label="grey">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="up" label="up">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="spinoza" label="spinoza">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="good" label="good">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="grow" label="grow">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="recently" label="recently">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="patron" label="patron">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="chapter" label="chapter">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="systematically" label="systematically">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="security" label="security">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="outskirt" label="outskirt">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="learn" label="learn">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="effectually" label="effectually">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="seem" label="seem">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="unmolested" label="unmolested">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="dry" label="dry">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="five" label="five">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="river" label="river">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="states" label="states">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="foot" label="foot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="length" label="length">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="day" label="day">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="hour" label="hour">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="man" label="man">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="herd" label="herd">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="far" label="far">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="leeward" label="leeward">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="whale" target="great" id="0" weight="29">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="have" id="1" weight="4">
+        <attvalues>
+          <attvalue for="2" value="relcl" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="or" id="2" weight="5">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="one" id="3" weight="13">
+        <attvalues>
+          <attvalue for="2" value="nummod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="wound" id="4" weight="4">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="mighty" id="5" weight="5">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="and" id="6" weight="35">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="take" id="7" weight="3">
+        <attvalues>
+          <attvalue for="2" value="acl" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="in" id="8" weight="19">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="large" id="9" weight="10">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="dead" id="10" weight="13">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="kill" id="11" weight="3">
+        <attvalues>
+          <attvalue for="2" value="relcl" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="right" id="12" weight="62">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="sperm" id="13" weight="189">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="true" id="14" weight="5">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="old" id="15" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="at" id="16" weight="3">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="first" id="17" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="ship" id="18" weight="4">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="particular" id="19" weight="5">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="live" id="20" weight="6">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="vessel" id="21" weight="4">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="more" id="22" weight="5">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="say" id="23" weight="3">
+        <attvalues>
+          <attvalue for="2" value="ccomp" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="but" id="24" weight="3">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="chronicler" id="25" weight="4">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="wondrous" id="26" weight="4">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="of" id="27" weight="20">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="die" id="28" weight="5">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="white" id="29" weight="108">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="greenland" id="30" weight="23">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="other" id="31" weight="13">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="hunt" id="32" weight="5">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="with" id="33" weight="7">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="folio" id="34" weight="3">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="physeter" id="35" weight="4">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="headed" id="36" weight="6">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="pursue" id="37" weight="3">
+        <attvalues>
+          <attvalue for="2" value="relcl" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="head" id="38" weight="9">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="same" id="39" weight="4">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="elephant" id="40" weight="5">
+        <attvalues>
+          <attvalue for="2" value="nmod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="small" id="41" weight="4">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="on" id="42" weight="3">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="hat" id="43" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="four" id="44" weight="3">
+        <attvalues>
+          <attvalue for="2" value="nummod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="run" id="45" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="tow" id="46" weight="4">
+        <attvalues>
+          <attvalue for="2" value="acl" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="three" id="47" weight="4">
+        <attvalues>
+          <attvalue for="2" value="nummod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="fly" id="48" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="dick" id="49" weight="4">
+        <attvalues>
+          <attvalue for="2" value="appos" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="cut" id="50" weight="4">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="full" id="51" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="young" id="52" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="hoist" id="53" weight="3">
+        <attvalues>
+          <attvalue for="2" value="acl" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="scene" id="54" weight="5">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="noble" id="55" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="stricken" id="56" weight="7">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="stubb" id="57" weight="3">
+        <attvalues>
+          <attvalue for="2" value="poss" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="dat" id="58" weight="4">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="as" id="59" weight="4">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="capture" id="60" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="two" id="61" weight="3">
+        <attvalues>
+          <attvalue for="2" value="nummod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="sized" id="62" weight="4">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="like" id="63" weight="3">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="drug" id="64" weight="6">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="blasted" id="65" weight="3">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="bone" id="66" weight="3">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="grinning" id="67" weight="3">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="black" id="68" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="beaked" id="69" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="bunch" id="70" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="jaw" id="71" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="rostrate" id="72" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="humpbacked" id="73" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="horn" id="74" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="unicorn" id="75" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="cape" id="76" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="leading" id="77" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="cannon" id="78" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="scragg" id="79" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="coppered" id="80" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="iceberg" id="81" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="quog" id="82" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="whale" target="blue" id="83" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="have" target="bone" id="84" weight="1">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="have" target="for" id="85" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="have" target="sea" id="86" weight="1">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="have" target="in" id="87" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="have" target="above" id="88" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="have" target="then" id="89" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="have" target="talk" id="90" weight="1">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="one" target="dry" id="91" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="one" target="far" id="92" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="one" target="leeward" id="93" weight="1">
+        <attvalues>
+          <attvalue for="2" value="relcl" />
+        </attvalues>
+      </edge>
+      <edge source="wound" target="learn" id="94" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advcl" />
+        </attvalues>
+      </edge>
+      <edge source="wound" target="in" id="95" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="wound" target="but" id="96" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="wound" target="effectually" id="97" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="wound" target="seem" id="98" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advcl" />
+        </attvalues>
+      </edge>
+      <edge source="and" target="now" id="99" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="take" target="near" id="100" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="take" target="up" id="101" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prt" />
+        </attvalues>
+      </edge>
+      <edge source="take" target="spinoza" id="102" weight="1">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="take" target="in" id="103" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="spitzbergen" id="104" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="sea" id="105" weight="3">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="air" id="106" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="ocean" id="107" weight="2">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="home" id="108" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="track" id="109" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="kind" id="110" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="question" id="111" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="mediterranean" id="112" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="attitude" id="113" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="expression" id="114" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="particular" id="115" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="chapter" id="116" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="security" id="117" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="states" id="118" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="in" target="length" id="119" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="large" target="very" id="120" weight="2">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="kill" target="asiatics" id="121" weight="1">
+        <attvalues>
+          <attvalue for="2" value="nsubj" />
+        </attvalues>
+      </edge>
+      <edge source="kill" target="recently" id="122" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="sperm" target="large" id="123" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="sperm" target="live" id="124" weight="2">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="sperm" target="or" id="125" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="sperm" target="right" id="126" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="sperm" target="portly" id="127" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="sperm" target="grow" id="128" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="at" target="bedford" id="129" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="at" target="bottom" id="130" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="at" target="time" id="131" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="ship" target="from" id="132" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="ship" target="fall" id="133" weight="1">
+        <attvalues>
+          <attvalue for="2" value="relcl" />
+        </attvalues>
+      </edge>
+      <edge source="live" target="systematically" id="134" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="live" target="by" id="135" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="vessel" target="cross" id="136" weight="1">
+        <attvalues>
+          <attvalue for="2" value="acl" />
+        </attvalues>
+      </edge>
+      <edge source="say" target="now" id="137" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="say" target="queequeg" id="138" weight="1">
+        <attvalues>
+          <attvalue for="2" value="nsubj" />
+        </attvalues>
+      </edge>
+      <edge source="say" target="haul" id="139" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advcl" />
+        </attvalues>
+      </edge>
+      <edge source="chronicler" target="famous" id="140" weight="2">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="sea" id="141" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="whaleman" id="142" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="english" id="143" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="americans" id="144" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="magnitude" id="145" weight="3">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="order" id="146" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="specie" id="147" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="sibbald" id="148" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="course" id="149" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="bigness" id="150" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="two" id="151" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="stubb" id="152" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="foot" id="153" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="day" id="154" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="hour" id="155" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="of" target="to" id="156" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="die" target="unmolested" id="157" weight="1">
+        <attvalues>
+          <attvalue for="2" value="acomp" />
+        </attvalues>
+      </edge>
+      <edge source="greenland" target="or" id="158" weight="3">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="greenland" target="right" id="159" weight="2">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="greenland" target="and" id="160" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="greenland" target="spitzbergen" id="161" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="greenland" target="river" id="162" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="hunt" target="regularly" id="163" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="hunt" target="by" id="164" weight="1">
+        <attvalues>
+          <attvalue for="2" value="agent" />
+        </attvalues>
+      </edge>
+      <edge source="with" target="hand" id="165" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="with" target="baleen" id="166" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="with" target="brow" id="167" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="with" target="puncture" id="168" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pcomp" />
+        </attvalues>
+      </edge>
+      <edge source="with" target="hump" id="169" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="with" target="head" id="170" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="with" target="herd" id="171" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="physeter" target="or" id="172" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="physeter" target="spermaceti" id="173" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="headed" target="anvil" id="174" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="headed" target="pudding" id="175" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="pursue" target="fisherman" id="176" weight="1">
+        <attvalues>
+          <attvalue for="2" value="nsubj" />
+        </attvalues>
+      </edge>
+      <edge source="pursue" target="long" id="177" weight="2">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="pursue" target="in" id="178" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="head" target="pike" id="179" weight="1">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="head" target="white" id="180" weight="2">
+        <attvalues>
+          <attvalue for="2" value="advmod" />
+        </attvalues>
+      </edge>
+      <edge source="head" target="anvil" id="181" weight="1">
+        <attvalues>
+          <attvalue for="2" value="npadvmod" />
+        </attvalues>
+      </edge>
+      <edge source="head" target="grey" id="182" weight="2">
+        <attvalues>
+          <attvalue for="2" value="npadvmod" />
+        </attvalues>
+      </edge>
+      <edge source="head" target="and" id="183" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="same" target="self" id="184" weight="1">
+        <attvalues>
+          <attvalue for="2" value="npadvmod" />
+        </attvalues>
+      </edge>
+      <edge source="elephant" target="and" id="185" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="elephant" target="castle" id="186" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="on" target="side" id="187" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="on" target="larboard" id="188" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="on" target="outskirt" id="189" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="four" target="or" id="190" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="four" target="five" id="191" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="run" target="dead" id="192" weight="1">
+        <attvalues>
+          <attvalue for="2" value="oprd" />
+        </attvalues>
+      </edge>
+      <edge source="tow" target="hull" id="193" weight="1">
+        <attvalues>
+          <attvalue for="2" value="dobj" />
+        </attvalues>
+      </edge>
+      <edge source="tow" target="through" id="194" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="dick" target="moby" id="195" weight="2">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="cut" target="of" id="196" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="cut" target="in" id="197" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="cut" target="out" id="198" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="hoist" target="to" id="199" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="hoist" target="on" id="200" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="scene" target="whaling" id="201" weight="1">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+      <edge source="stubb" target="and" id="202" weight="1">
+        <attvalues>
+          <attvalue for="2" value="cc" />
+        </attvalues>
+      </edge>
+      <edge source="stubb" target="kill" id="203" weight="1">
+        <attvalues>
+          <attvalue for="2" value="conj" />
+        </attvalues>
+      </edge>
+      <edge source="as" target="dish" id="204" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="as" target="with" id="205" weight="1">
+        <attvalues>
+          <attvalue for="2" value="prep" />
+        </attvalues>
+      </edge>
+      <edge source="as" target="specie" id="206" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="capture" target="by" id="207" weight="1">
+        <attvalues>
+          <attvalue for="2" value="agent" />
+        </attvalues>
+      </edge>
+      <edge source="sized" target="good" id="208" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="sized" target="large" id="209" weight="1">
+        <attvalues>
+          <attvalue for="2" value="amod" />
+        </attvalues>
+      </edge>
+      <edge source="like" target="patron" id="210" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="like" target="man" id="211" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="like" target="bone" id="212" weight="1">
+        <attvalues>
+          <attvalue for="2" value="pobj" />
+        </attvalues>
+      </edge>
+      <edge source="bone" target="whale" id="213" weight="3">
+        <attvalues>
+          <attvalue for="2" value="compound" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
